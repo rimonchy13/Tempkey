@@ -1,18 +1,11 @@
 [
   {
-    "id": "6d95fal7c7e40bea",
+    "id": "54d920cad54c95fd",
     "username": "dpmods",
     "password": "dpmods",
     "expiresAt": "2025-12-31",
     "allowOffline": true
-  },
-  {
-    "id": "54d920cad54c95fd",
-    "username": "Rimon",
-    "password": "Rimon11",
-    "expiresAt": "2025-12-31",
-    "allowOnline": true
-  },
+  }
   {
     "id": "android_device_id_2",
     "username": "user2",
