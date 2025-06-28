@@ -11,9 +11,9 @@
   {
     "id": "54d920cad54c95fd",
     "username": "Rimon",
-    "password": "Rimon",
+    "password": "Rimon11",
     "expiresAt": "2025-12-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
